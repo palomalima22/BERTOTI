@@ -1,0 +1,15 @@
+Texto: 
+Os computadores não "compreendem" palavras... mas é possível representar palavras como vetores e usar a matemática para descobrir analogias e relações semânticas na linguagem. Este conceito é 
+chamado de incorporação de palavras.
+
+Incorporações de palavras são uma forma de representar palavras como vetores em um espaço. Essa representação permite “fazer contas com as palavras” e depois descobrir sua semântica por meio de analogias.
+
+O exemplo clássico é: rei – homem + mulher = rainha (figura abaixo). Se, no espaço de incorporação, subtrairmos o vetor masculino do vetor rei e depois adicionarmos o vetor feminino,
+encontraremos o conceito de rainha. Na verdade, poderíamos dizer que fazendo uma analogia, uma rainha é um rei subtraído do conceito de homem e adicionado ao conceito de mulher.
+
+Na aula foi mencionado o Link: https://motherduck.com/blog/duckdb-text2sql-llm/ 
+Onde consta um texto que fala sobre a relação de banco de dados com a atualidade das Inteligências Artificiais
+
+Pergunta: 
+O que significa Banco? 
+Resposta: 
