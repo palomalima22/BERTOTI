@@ -1,7 +1,8 @@
 # BERTOTI - ENGENHARIA DE SOFTWARE 1 (MATÉRIA)
 
-| Posição | Tarefa | Prioridade | User Story | Status | Sprint |
-|:-------:|:------:|:----------:|:----------:|:------:|:------:|
-|  1      | Elaboração do Backlog| Alta|  Como usuário, quero as listas das atividades que serão desenvolvidas no projeto| 🔨 |1|
-| 2       | Experiência do Usuário Funcional| Alta| Como usuário, Gostaria de ter uma experiência funcional, onde eu consiga vizualizar como será meu aplicativo e isso pode ser feito através de um protótipo navegável| 🔨| 1|
-| 3       | Gerar documentação no Github| Alta| Como cliente eu quero um repositório para acompanhar a evolução do projeto e vizualizar a documentação do produto| 🔨| 1| 
+![os](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![os](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![os](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![os](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![os](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
