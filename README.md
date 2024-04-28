@@ -1,6 +1,6 @@
 # BERTOTI - ENGENHARIA DE SOFTWARE 1 (MATÉRIA)
 
-| REQUISITOS FUNCIONAIS |
-|-----------------------|
+|     REQUISITOS FUNCIONAIS     |
+|-------------------------------|
 |Número do Requisito| Requisito |
-|-------------------||-----------|
+|-------------------||----------|
