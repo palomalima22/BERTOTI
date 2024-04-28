@@ -2,5 +2,5 @@
 
 |     REQUISITOS FUNCIONAIS     |
 |-------------------------------|
-|Número do Requisito| Requisito |
-|-------------------|-----------|
+|Número do Requisito | Requisito|
+
