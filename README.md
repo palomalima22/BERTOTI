@@ -4,3 +4,4 @@
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro | Critério de aceitação |
 |------|------------|------------|------------|--------|-----------------------|------------------------|
+| 1    |  Alta      |  Como usuário, quero as listas das atividades que serão desenvolvidas no projeto | 5 | 1 | RF5 | 
